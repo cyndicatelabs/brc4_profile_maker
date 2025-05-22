@@ -1,0 +1,39 @@
+{
+  "listeners": {
+    "templateListener": {
+      "append": "",
+      "auth_count": 0,
+      "auth_type": false,
+      "c2_authkeys": [
+        ""
+      ],
+      "c2_uri": [
+        "/"
+      ],
+      "data_encoding": "",
+      "delay_exec": 10,
+      "die_offline": false,
+      "empty_response": "",
+      "entrypoint": "",
+      "entrypoint_offset": "",
+      "exec_method": "",
+      "host": "127.0.0.1",
+      "is_random": false,
+      "jitter": 25,
+      "obfsleep": "",
+      "os_type": "windows",
+      "port": "443",
+      "prepend": "",
+      "prepend_response": "",
+      "request_headers": {},
+      "response_headers": {},
+      "rop_dll": "",
+      "rotational_host": "",
+      "sleep": 10,
+      "ssl": true,
+      "stack_chain": "",
+      "stomp": "",
+      "useragent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36 Edg/136.0.3240.64"
+    }
+  }
+}
