@@ -15,6 +15,10 @@ This is a simple tool to create BRC4 profiles using an interactive TUI. The proc
 
 ## Help
 
+There is a help menu that can be accessed by pressing `h` at any time. This will show you the key bindings for the TUI.
+
+![Help Menu](./resources/help.png)
+
 ## Detailed Usage
 
 **Request Marking**
